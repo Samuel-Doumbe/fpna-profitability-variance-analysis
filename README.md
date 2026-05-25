@@ -349,15 +349,19 @@ FP&A-SQL-PROFITABILITY-ANALYSIS
 
 ## Executive Overview
 
-- executive_overview.png
+![Executive Overview](screenshots/executive_overview.png)
+
+---
 
 ## Operational Analysis
 
-- operational_analysis.png
+![Operational Analysis](screenshots/operational_analysis.png)
+
+---
 
 ## Forecast & Planning Analytics
 
-- forecast_planning_analysis.png
+![Forecast & Planning Analytics](screenshots/forecast_planning_analysis.png)
 
 ---
 
